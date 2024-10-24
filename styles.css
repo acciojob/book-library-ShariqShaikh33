@@ -42,12 +42,13 @@ body{
 	font-family: Trebuchet MS, san-serif;
 	width: 95%;
 	margin:auto;
+	color: #777777;
 	text-align: left;
 	font-size: 10px;
 }
 .book-price-button{
 	font-family: Trebuchet MS, san-serif;
-	background-color: #17C169;
+	background-color: #2ecc71;
 	width: 95%;
 	margin:auto;
 	margin-bottom: 10px;
